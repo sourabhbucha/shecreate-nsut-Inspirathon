@@ -1,0 +1,49 @@
+.NavBar {
+  height: 130px;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+}
+.title {
+  padding-top: 10px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bolder;
+  font-size: 34px;
+  line-height: 51px;
+  text-align: center;
+  letter-spacing: -0.02em;
+  color: #ffffff;
+}
+.NavBar > hr {
+  width: 60%;
+  border: none;
+  mix-blend-mode: normal;
+  opacity: 0.2;
+  border-top: 1px solid #ffffff;
+}
+.options {
+  padding-bottom: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 18px;
+  line-height: 22px;
+  color: #f9f9fb;
+  gap: 70px;
+}
+.options > a {
+  text-decoration: none;
+  cursor: pointer;
+  text-decoration: none;
+  color: #fff;
+  /* text-decoration: underline; */
+}
+.options > a:hover {
+  text-decoration: underline;
+}
