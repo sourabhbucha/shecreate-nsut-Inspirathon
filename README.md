@@ -1,5 +1,9 @@
 # SheCreates
 
+### `npm install`
+
+To install all the node modules in the folder .\
+
 ### `npm start`
 
 Runs the app in the localHost .\
