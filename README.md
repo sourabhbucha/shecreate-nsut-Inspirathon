@@ -5,6 +5,6 @@
 Runs the app in the localHost .\
 Open [http://localhost:3000/Home](http://localhost:3000/Home) to view it in the browser.
 
-### `Project Details`
+### Project Details
 
 This project is a prototype of the solution by the team shinigami for the NSUT hackathon Inspirathon.
