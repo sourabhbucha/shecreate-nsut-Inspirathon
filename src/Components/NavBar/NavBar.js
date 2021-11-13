@@ -9,7 +9,7 @@ function NavBar() {
             </div>
             <hr />
             <div className="options">
-                <Link to="/StudentHome">Home</Link>
+                <Link to="/Home">Home</Link>
                 <a>About</a>
                 <a>Contact</a>
             </div>

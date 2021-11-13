@@ -4,6 +4,7 @@ import wideImg from '../Assets/Images/WideImg.png'
 import ViewWide from './ViewWide'
 import Small from './Small'
 function StudentHome() {
+    document.body.style.background = "#5840bb";
     return (
         <div className="StudentHome">
             <div className="content">

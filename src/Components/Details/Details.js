@@ -13,7 +13,9 @@ function Details(props) {
             setBid(0)
         }
     }
+    document.body.style.background = "#5840bb";
     return (
+
         <div className="Details">
             <div className="detailsGrid">
                 <img src={props.details.img} alt="" />

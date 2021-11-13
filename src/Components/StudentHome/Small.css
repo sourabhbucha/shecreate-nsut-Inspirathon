@@ -23,7 +23,7 @@
   justify-content: center;
   flex-direction: column;
 }
-.image-over-small > Link > h1 {
+.h1 > h1 {
   font-family: poppins;
   font-style: bold;
   font-weight: bolder;

@@ -7,7 +7,7 @@ function Small(props) {
             
             <img src={props.img} alt="" />
             <div className="image-over-small">
-                <Link to="/Details"><h1>{props.Title}</h1></Link>
+                <Link to="/Details" className="h1"><h1>{props.Title}</h1></Link>
                 <h2>{props.Description}</h2>
             </div>
         </div>
