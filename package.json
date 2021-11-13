@@ -1,5 +1,6 @@
 {
   "name": "shecreate",
+  "homepage":"http://localhost:3000/Home",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
