@@ -1,4 +1,4 @@
-# SheCreate
+# SheCreates
 
 ### `npm start`
 
