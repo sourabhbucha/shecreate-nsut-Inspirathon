@@ -2,7 +2,7 @@
 
 ### `npm install`
 
-To install all the node modules in the folder.\
+To install all the node modules in the project Folder.
 
 ### `npm start`
 
