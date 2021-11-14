@@ -11,15 +11,15 @@ Open [http://localhost:3000/Home](http://localhost:3000/Home) to view it in the 
 
 ### Team members:
 
-1. Name: Bhavya Chauhan .\
-   College Name: Maharaja Agrasen Institute of Technology, IPU .\
-   Year of study: 2nd year (2024 batch) .\
-2. Name: Sourabh Bucha .\
-   College Name: Maharaja Agrasen Institute of Technology, IPU .\
-   Year of study: 2nd year (2024 batch) .\
-3. Name: Chiragdeep Verma .\
-   College name: Bhagwan Parshuram Institute of Technology, IPU .\
-   Year of study: 2nd year (2024 batch) .\
+1. Name: Bhavya Chauhan \
+   College Name: Maharaja Agrasen Institute of Technology, IPU \
+   Year of study: 2nd year (2024 batch) 
+2. Name: Sourabh Bucha \
+   College Name: Maharaja Agrasen Institute of Technology, IPU \
+   Year of study: 2nd year (2024 batch) 
+3. Name: Chiragdeep Verma \
+   College name: Bhagwan Parshuram Institute of Technology, IPU \
+   Year of study: 2nd year (2024 batch) 
 
 ### Project Details
 
@@ -30,4 +30,4 @@ This project is a prototype of the solution by the team shinigami for the NSUT h
 You have recently completed engineering and when you went back to your village you were shocked to see how far it has been left behind as compared to the modern cities. You decided to bring a change in the way things work currently by using your knowledge and skills. You observe that women in your village are highly skilled artisans and capable of selling their products and teaching their skills in an international marketplace but due to lack of knowledge of technology, are left helpless. Develop a product to solve the same problem, Remember the following pain points: .\
 • Village women have little or zero knowledge of technology. .\
 • There is a language barrier between seller and customer .\
-• There shouldn't be any cheating or harassment cases against the village women .\
+• There shouldn't be any cheating or harassment cases against the village women.
