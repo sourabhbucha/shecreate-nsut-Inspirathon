@@ -31,3 +31,12 @@ You have recently completed engineering and when you went back to your village y
 • Village women have little or zero knowledge of technology. .\
 • There is a language barrier between seller and customer .\
 • There shouldn't be any cheating or harassment cases against the village women.
+
+### How we dealt with the problems.
+
+Since we aim to build an application for women in rural areas with zero knowledge in technology therefore, we simplified the UI as much as possible and focused on the frontend.
+
+### How this project can be extended in future 
+
+India is a diverse country so there’s a huge scope of improvement. We can try to include multiple languages and dialects to involve as many rural women as we can and empower them.
+
