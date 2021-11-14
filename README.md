@@ -32,7 +32,7 @@ You have recently completed engineering and when you went back to your village y
 • There is a language barrier between seller and customer .\
 • There shouldn't be any cheating or harassment cases against the village women.
 
-### How we dealt with the problems.
+### How we deal with the problems.
 
 Since we aim to build an application for women in rural areas with zero knowledge in technology therefore, we simplified the UI as much as possible and focused on the frontend.
 
